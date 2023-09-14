@@ -25,7 +25,6 @@ Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes un
 ## Contenido
 0. **Presentación del curso *Aprendizaje profundo y Series de tiempo***
 	* Descargar presentación [PDF](https://github.com/marcoteran/dl/raw/master/lectures/00_dl_syllabus.pdf)
-	[Notes](https://github.com/marcoteran/dl/raw/master/lectures/00_dl_notes_syllabus.pdf)
 
 1. **Introducción al *Deep Learning***
 	* Descargar presentación [PDF](https://github.com/marcoteran/dl/raw/master/lectures/01_dl_introductiontodeeplearning.pdf)
