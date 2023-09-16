@@ -23,13 +23,17 @@ Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes un
 ---
 ## Contenido
 0. **Presentación del curso *Aprendizaje profundo y Series de tiempo***
-	* Descargar presentación [PDF](https://github.com/marcoteran/dl/raw/master/lectures/00_dl_syllabus.pdf)
+	* Descargar presentación [PDF]](https://github.com/marcoteran/dl/raw/master/lectures/00_dl_syllabus.pdf)
 
 1. **Introducción al *Deep Learning***
-	* Descargar presentación [PDF](https://github.com/marcoteran/dl/raw/master/lectures/01_dl_introductiontodeeplearning.pdf)
+	* Descargar presentación [[PDF]]](https://github.com/marcoteran/dl/raw/master/lectures/01_dl_introductiontodeeplearning.pdf)
 		* **video** [The Wonderful and Terrifying Implications of Computers That Can Learn](https://www.ted.com/talks/jeremy_howard_the_wonderful_and_terrifying_implications_of_computers_that_can_learn), Jeremy Howard, TED
 		* **[Russell10]** Chap 1 [(slides)](http://aima.eecs.berkeley.edu/slides-pdf/chapter01.pdf)
-
+2. **Desbalanceo de los datos**
+	* Descargar presentación [PDF]](https://github.com/marcoteran/dl/raw/master/lectures/02_dl_imbalanceddata.pdf)
+		* IPython Notebooks:
+			- Exploración de los datos [descargar](https://github.com/marcoteran/dl/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
 
 
 ---
