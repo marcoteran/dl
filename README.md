@@ -19,6 +19,7 @@
 Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes una comprensión sólida de los fundamentos de la teoría y aplicación del *Deep Learning*. Los estudiantes aprenderán cómo procesar datos, trabajar con problemas de clases desbalanceadas, reducir la dimensionalidad, aplicar técnicas de regularización y utilizar diferentes algoritmos de ensamble y aprendizaje no supervisado. El curso también se enfoca en las redes neuronales, cubriendo MLP, redes convolucionales y neuronales recurrentes. Además, los estudiantes aprenderán a trabajar con series de tiempo y aplicar modelos específicos a este tipo de datos.
 
 #### Información de contacto
+* **Enlace Teams**: [ENLACE](https://teams.microsoft.com/l/meetup-join/19:meeting_MzQ0MjRiMDQtMTEyOS00NzRhLTg2MzMtYjZiN2Y2YjhhN2Vk@thread.v2/0?context=%7B%22Tid%22:%2203e1b226-5789-4a97-90f6-44a44241ba6d%22,%22Oid%22:%227c8fb56a-fba6-410c-bafe-3fded33caefe%22%7D)
 * **Profesor:** [Marco Teran](https://marcoteran.github.io/)
 
 ---
