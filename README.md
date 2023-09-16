@@ -2,7 +2,8 @@
 ---
 <div align="center">
 
-# Teoría de Sistemas lineales - 2023-II
+# # Módulo Aprendizaje profundo
+## Diseño de Software inteligente
 ![GitHub](https://img.shields.io/github/license/marcoteran/lst)
 ![GitHub stars](https://img.shields.io/github/stars/marcoteran/lst)
 ![GitHub forks](https://img.shields.io/github/forks/marcoteran/lst)
@@ -12,9 +13,6 @@
 
 
 ---
-# Módulo Aprendizaje profundo
-## Diseño de Software inteligente
-
 ## Descripción del curso
 Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes una comprensión sólida de los fundamentos de la teoría y aplicación del *Deep Learning*. Los estudiantes aprenderán cómo procesar datos, trabajar con problemas de clases desbalanceadas, reducir la dimensionalidad, aplicar técnicas de regularización y utilizar diferentes algoritmos de ensamble y aprendizaje no supervisado. El curso también se enfoca en las redes neuronales, cubriendo MLP, redes convolucionales y neuronales recurrentes. Además, los estudiantes aprenderán a trabajar con series de tiempo y aplicar modelos específicos a este tipo de datos.
 
