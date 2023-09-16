@@ -2,7 +2,7 @@
 ---
 <div align="center">
 
-# # Módulo Aprendizaje profundo
+# Módulo Aprendizaje profundo
 ## Diseño de Software inteligente
 ![GitHub](https://img.shields.io/github/license/marcoteran/lst)
 ![GitHub stars](https://img.shields.io/github/stars/marcoteran/lst)
