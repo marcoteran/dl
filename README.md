@@ -34,7 +34,11 @@ Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes un
 		* IPython Notebooks:
 			- Exploración de los datos [[descargar]](https://github.com/marcoteran/dl/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
-
+3. **Redes neuronales y Deep Learning** 
+	* Redes neuronales y Deep Learning [PDF](https://github.com/marcoteran/dl/raw/master/lectures/03_dl_deeplearning.pdf)
+		* IPython Notebooks:
+			- Introducción al Aprendizaje profundo [descargar](https://github.com/marcoteran/dl/blob/master/notebooks/3.1_deepleaningintroduction_dnn.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.1_deepleaningintroduction_dnn.ipynb)
 
 ---
 ## Proyecto de Deep learning
