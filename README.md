@@ -40,7 +40,10 @@ Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes un
 			- Introducción al Aprendizaje profundo [descargar](https://github.com/marcoteran/dl/blob/master/notebooks/3.1_deepleaningintroduction_dnn.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.1_deepleaningintroduction_dnn.ipynb)
 			- Proyecto Precio de vehículos usados [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles.ipynb) [![SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn_SOL.ipynb)
+
+4. **Redes neuronales convolucionales**
+	* Redes neuronales convolucionales [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/04_dl_cnn.pdf)
 
 ---
 ## Proyecto de Deep learning
