@@ -45,7 +45,7 @@ Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes un
 4. **Redes neuronales convolucionales**
 	* Redes neuronales convolucionales [[PDF]](https://github.com/marcoteran/deeplearning/raw/master/lectures/04_dl_cnn.pdf)
 		* IPython Notebooks: 
-			- Redes neuronales convolucionales [[descargar]](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) <sub>**[SOL]**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn_SOL_updated.ipynb)
+			- Redes neuronales convolucionales [[descargar]](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) <sub>**[SOL]**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn_SOL.ipynb)
 
 ---
 ## Proyecto de Deep learning
