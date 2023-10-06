@@ -35,15 +35,17 @@ Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes un
 			- Exploración de los datos [[descargar]](https://github.com/marcoteran/dl/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/1.2_machinelearning_imbalanceddata.ipynb)
 3. **Redes neuronales y Deep Learning** 
-	* Redes neuronales y Deep Learning [PDF](https://github.com/marcoteran/dl/raw/master/lectures/03_dl_deeplearning.pdf)
+	* Redes neuronales y Deep Learning [[PDF]](https://github.com/marcoteran/dl/raw/master/lectures/03_dl_deeplearning.pdf)
 		* IPython Notebooks:
-			- Introducción al Aprendizaje profundo [descargar](https://github.com/marcoteran/dl/blob/master/notebooks/3.1_deepleaningintroduction_dnn.ipynb)
+			- Introducción al Aprendizaje profundo [[descargar]](https://github.com/marcoteran/dl/blob/master/notebooks/3.1_deepleaningintroduction_dnn.ipynb)
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.1_deepleaningintroduction_dnn.ipynb)
-			- Proyecto Precio de vehículos usados [descargar](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles.ipynb)
-			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles.ipynb) [SOL] [![SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles_SOL.ipynb)
+			- Proyecto Precio de vehículos usados [[descargar]](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles.ipynb)
+			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles.ipynb) <sub>**[SOL]**</sub> [![SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles_SOL.ipynb)
 
 4. **Redes neuronales convolucionales**
-	* Redes neuronales convolucionales [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/04_dl_cnn.pdf)
+	* Redes neuronales convolucionales [[PDF]](https://github.com/marcoteran/deeplearning/raw/master/lectures/04_dl_cnn.pdf)
+		* IPython Notebooks: 
+			- Redes neuronales convolucionales [[descargar]](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) <sub>**[SOL]**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn_SOL.ipynb)
 
 ---
 ## Proyecto de Deep learning
