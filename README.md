@@ -43,11 +43,17 @@ Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes un
 			[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles.ipynb) <sub>**[SOL]**</sub> [![SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.2_deepleaningintroduction_pricesusedvehicles_SOL.ipynb)
 
 4. **Redes neuronales convolucionales**
-	* Redes neuronales convolucionales [[PDF]](https://github.com/marcoteran/deeplearning/raw/master/lectures/04_dl_cnn.pdf)
-	* Transferencia de aprendizaje [PDF](https://github.com/marcoteran/deeplearning/raw/master/lectures/05_dl_dataaugmentationandtransferlearning.pdf)
+	* Redes neuronales convolucionales [[PDF]](https://github.com/marcoteran/dl/raw/master/lectures/04_dl_cnn.pdf)
+	* Transferencia de aprendizaje [PDF](https://github.com/marcoteran/dl/raw/master/lectures/05_dl_dataaugmentationandtransferlearning.pdf)
 		* IPython Notebooks: 
-			- Redes neuronales convolucionales [[descargar]](https://github.com/marcoteran/deeplearning/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) <sub>**[SOL]**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn_SOL.ipynb)
+			- Redes neuronales convolucionales [[descargar]](https://github.com/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn.ipynb) <sub>**[SOL]**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.3_deeplearning_cnn_SOL.ipynb)
 			- *Data Augmentation* y *Transfer Learning* [[descargar]](https://github.com/marcoteran/dl/blob/master/notebooks/3.4_deeplearning_dataaugmentationandtransferlearning.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/deeplearning/blob/master/notebooks/3.4_deeplearning_dataaugmentationandtransferlearning.ipynb) <sub>**[SOL]**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/3.4_deeplearning_dataaugmentationandtransferlearning_SOL.ipynb)
+
+4. **Autoencoders y GANs**
+	* Autoencoders y GANs [[PDF]](https://github.com/marcoteran/dl/raw/master/lectures/04_dl_cnn.pdf)
+		* IPython Notebooks: 
+			- Autoencoders y GANs [[descargar]](https://github.com/marcoteran/dl/blob/master/notebooks/4.1_deeplearning_generativeadversialnetworks.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/4.1_deeplearning_generativeadversialnetworks.ipynb) <sub>**[SOL]**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/4.1_deeplearning_generativeadversialnetworks_SOL.ipynb)
+
 ---
 ## Proyecto de Deep learning
 Ejecutar un proyecto de Deep learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/dl/raw/master/homeworks/dl_proyecto.pdf).
