@@ -53,7 +53,9 @@ Este curso de ***Deep Learning*** se enfoca en proporcionar a los estudiantes un
 	* Autoencoders y GANs [[PDF]](https://github.com/marcoteran/dl/raw/master/lectures/04_dl_cnn.pdf)
 		* IPython Notebooks: 
 			- Autoencoders y GANs [[descargar]](https://github.com/marcoteran/dl/blob/master/notebooks/4.1_deeplearning_generativeadversialnetworks.ipynb) [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/4.1_deeplearning_generativeadversialnetworks.ipynb) <sub>**[SOL]**</sub> [![Abrir SOL en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marcoteran/dl/blob/master/notebooks/4.1_deeplearning_generativeadversialnetworks_SOL.ipynb)
-
+5. **Resumen**
+	* Descargar presentación [[PDF]](https://github.com/marcoteran/dl/raw/master/lectures/07_dl_summary.pdf)
+	
 ---
 ## Proyecto de Deep learning
 Ejecutar un proyecto de Deep learning de forma efectiva usando la metodología y las herramientas presentadas en el curso [Descargar](https://github.com/marcoteran/dl/raw/master/homeworks/dl_proyecto.pdf).
